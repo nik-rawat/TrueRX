@@ -1,1 +1,1 @@
-hi guys your frontend developer is here
+#TrustRX is a solution to handle prescription and maintain it's integrity and verifiability
